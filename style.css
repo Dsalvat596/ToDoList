@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 32px;
+    background: rgba(240, 240, 98, 0.698);
+    margin: 3px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.remove-item{
+    float: right;
+    position: relative;
+    top: 6px;
+}
+
+.form-control{
+    width: 91%;
+    float: right;
+}
+
+.add-item{
+    width: 91%;
+    float: right;
+}
